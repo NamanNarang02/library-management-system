@@ -20,3 +20,8 @@ INSERT INTO Books VALUES (103, 'Harry Potter and the Chamber of Secrets', 1, 2, 
 
 -- MEMBER
 INSERT INTO Member VALUES (1, 'Ravi Kumar', '9990001111');
+Insert into Member  values(2,'Naman Narang',99926372886);
+Insert into Member  values(3,'Priyanshu Bindal',99926378686);
+Insert into Member  values(4,'Soumyadeep',99926378609);
+Insert into Member  values(5,'Aayushman Gupta',99926378610);
+
