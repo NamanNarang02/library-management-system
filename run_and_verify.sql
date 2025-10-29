@@ -22,3 +22,6 @@ SELECT Book_ID, Book_Title, Stock FROM Books WHERE Book_ID = 101;
 
 -- View invoices (if any fines were generated)
 SELECT * FROM Invoice;
+
+--Transaction details
+SELECT * FROM transaction_details
